@@ -1,5 +1,6 @@
 # static-site
 follow-up challenge deploy static site via gh action
+
 link:https://roadmap.sh/projects/github-actions-deployment-workflow
 
 ## GitHub Pages Deployment
